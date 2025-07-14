@@ -1,6 +1,6 @@
 # Social Media Scraper
 
-A Python tool that collects **10 most recent posts** (with engagement metrics and media files) from public brand accounts on **Instagram** and **TikTok**.
+A Python tool that collects social media posts (with engagement metrics and media files) from public brand accounts on **Instagram** and **TikTok**.
 
 > **Default Accounts Scraped:**
 > - Instagram: `@example1`, `@example2`, `@example3`  

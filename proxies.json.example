@@ -1,0 +1,14 @@
+[
+  {
+    "host": "proxy1.example.com",
+    "port": "8080",
+    "username": "your_proxy_username",
+    "password": "your_proxy_password"
+  },
+  {
+    "host": "proxy2.example.com",
+    "port": "8080",
+    "username": "your_proxy_username",
+    "password": "your_proxy_password"
+  }
+]

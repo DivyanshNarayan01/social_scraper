@@ -1,0 +1,60 @@
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Output data
+social_data/
+logs/
+
+# Proxy configuration with real credentials
+proxies.json
+
+# Example files are kept for reference
+!proxies.json.example
+!.env.example
+
+# TikTok API cache and temp files
+tiktok_api/crawlers/tiktok/web/__pycache__/
+tiktok_api/crawlers/utils/__pycache__/
+
+# Session files
+*.session

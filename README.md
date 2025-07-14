@@ -86,7 +86,7 @@ social_data/
 │   ├── example2/
 │   └── example3/
 ├── tiktok/
-│   ├── example1/     # thumbnails (videos blocked by platform)
+│   ├── example1/     # downloaded media files (thumbnails if videos blocked by platform)
 │   ├── example2/
 │   └── example3/
 └── social_posts.json  # consolidated metadata

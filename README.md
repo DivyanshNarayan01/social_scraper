@@ -97,7 +97,7 @@ social_data/
 ```json
 {
   "platform": "instagram",
-  "username": "samsunguk",
+  "username": "example1",
   "post_id": "12345_67890",
   "post_url": "https://www.instagram.com/p/ABC123/",
   "timestamp": "2025-07-14T10:30:00+00:00",

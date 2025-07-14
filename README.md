@@ -1,4 +1,4 @@
-# Social Media Scraper for Academic Research
+# Social Media Scraper
 
 A Python tool that collects **10 most recent posts** (with engagement metrics and media files) from public brand accounts on **Instagram** and **TikTok**.
 

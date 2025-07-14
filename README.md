@@ -3,8 +3,8 @@
 A Python tool that collects **10 most recent posts** (with engagement metrics and media files) from public brand accounts on **Instagram** and **TikTok**.
 
 > **Default Accounts Scraped:**
-> - Instagram: `@samsunguk`, `@googlepixeluk`, `@apple`  
-> - TikTok: `@samsunguk`, `@googlepixel`, `@apple`
+> - Instagram: `@example1`, `@example2`, `@example3`  
+> - TikTok: `@example1`, `@example2`, `@example3`  
 
 ## Features
 
@@ -82,13 +82,13 @@ For TikTok scraping reliability, configure residential proxies:
 ```
 social_data/
 ├── instagram/
-│   ├── samsunguk/     # downloaded media files
-│   ├── googlepixeluk/
-│   └── apple/
+│   ├── example1/     # downloaded media files
+│   ├── example2/
+│   └── example3/
 ├── tiktok/
-│   ├── samsunguk/     # thumbnails (videos blocked by platform)
-│   ├── googlepixel/
-│   └── apple/
+│   ├── example1/     # thumbnails (videos blocked by platform)
+│   ├── example2/
+│   └── example3/
 └── social_posts.json  # consolidated metadata
 ```
 
